@@ -3,7 +3,7 @@
 # Hey, I'm zs211 👋
 ### A Final-Year CS Student | Python Game Developer | MOBA Gamer
 
-![](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Code+the+Future;Game+On+Life;Build+Something+Cool)
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Code+the+Future;Game+On+Life;Build+Something+Cool)
 
 </div>
 
@@ -22,7 +22,6 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <!-- 技能徽章 -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -32,16 +31,9 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <!-- 1. 主要统计卡片（隐藏贡献数，显示私人项目） -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zs211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="zs211's GitHub Stats"/>
-  
-  <!-- 2. 语言统计（紧凑版） -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zs211&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  
-  <!-- 3. 趣味奖杯 -->
   <img src="https://github-profile-trophy.vercel.app/?username=zs211&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  
-  <!-- 4. 代码提交热力图 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zs211&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph" width="100%"/>
 </div>
 
