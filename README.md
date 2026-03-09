@@ -31,17 +31,9 @@ Final-Year CS Student | Python Game Developer | MOBA Gamer
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zs211&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zs211&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%"/>
-</div>
-
----
-
-### 🔥 Featured Project
-<div align="center">
-  <a href="https://github.com/zs211/snake-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zs211&repo=snake-game&theme=tokyonight&hide_border=true" alt="Snake Game"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zs211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="zs211's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zs211&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zs211&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
