@@ -1,18 +1,18 @@
 <div align="center">
 
 ### Hey, I'm zs211 👋
-Final-Year CS Student | Python Game Developer | MOBA Gamer
+Python Game Developer | MOBA Gamer
 
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final-year CS undergraduate, based in Shenzhen
-- 🐍 Focusing on Python, Flask, and cross-platform packaging
-- 🎮 Creator of [Snake Game](https://github.com/zs211/snake-game) (Windows executable available)
-- 🏆 MOBA enthusiast (Mid Laner | Goal: Challenger)
-- ✈️ Planning a SEA graduation trip after internship
+- 🎓   based in Shenzhen
+- 🐍   Focusing on Python, Flask, and cross-platform packaging
+- 🎮   MOBA enthusiast
+- 🏆   。。。
+- ✈️   。。。
 
 ---
 
@@ -53,5 +53,5 @@ Final-Year CS Student | Python Game Developer | MOBA Gamer
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=zs211&style=flat-square&color=00E5FF" alt="Profile Views"/>
-  <p>✨ Built with ❤️ and Markdown</p>
+  <p>✨ 期待大家 ❤️ 关注</p>
 </div>
