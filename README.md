@@ -39,6 +39,7 @@ Python Game Developer | MOBA Gamer
   <a href="https://www.instagram.com/zhangshun779"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://open.spotify.com/user/31jut2s4ds6rhir7qitzv6qkgpim"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
   <a href="mailto:3330291170@qq.com"><img src="https://img.shields.io/badge/QQ-1DA1F2?style=flat-square&logo=qq&logoColor=white" alt="QQ"></a>
+  <a href="https://discord.gg/NcvAQtmH"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://github.com/zs211"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
