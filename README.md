@@ -1,8 +1,4 @@
 ### Hi I'm zs211 😄
-
-- 🎓  Based in Shenzhen
-- 🐍  Focusing on Python, Flask, and cross-platform packaging
-- 🎮  MOBA enthusiast
 - 🏆  Passionate about game development & tool building
 - ✈️  Love exploring new tech & travel
 
