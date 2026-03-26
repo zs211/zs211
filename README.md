@@ -1,13 +1,3 @@
-<div align="center">
-
-### Hey, I'm zs211 👋
-
-Python Game Developer | MOBA Gamer
-
-</div>
-
----
-
 ### Hi I'm zs211 😄
 
 - 🎓  Based in Shenzhen
