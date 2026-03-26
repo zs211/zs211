@@ -2,10 +2,10 @@
 - 🏆  Passionate about game development & tool building
 - ✈️  Love exploring new tech & travel
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zs211&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true)
+### 📊 GitHub Stats
+![zs211's GitHub stats](https://github-readme-stats.vercel.app/api?username=zs211&show_icons=true&theme=radical&rank_icon=percentile)
 
 ---
-
 ### 🛠️ Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -18,7 +18,6 @@
 </div>
 
 ---
-
 ### 📫 Connect With Me
 <div align="center">
   <a href="https://www.youtube.com/@shunzhang-m5i2v"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
@@ -34,15 +33,3 @@
 
 ---
 
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zs211&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph" width="100%"/>
-</div>
-
----
-
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=zs211&style=flat-square&color=00E5FF" alt="Profile Views"/>
-  <p>✨ Thanks for following ❤️</p>
-</div>
