@@ -14,7 +14,7 @@ Python Game Developer | MOBA Gamer
 - 🎮   MOBA enthusiast
 - 🏆    。。。
 - ✈️    。。。
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zs211&show_icons=true&theme=transparent&rank_icon=percentile)
 ---
 
 ### 🛠️ Tech Stack
