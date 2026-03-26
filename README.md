@@ -2,8 +2,7 @@
 - 🏆  Passionate about game development & tool building
 - ✈️  Love exploring new tech & travel
 
-### 📊 GitHub Stats
-![zs211's GitHub stats](https://github-readme-stats.vercel.app/api?username=zs211&show_icons=true&theme=radical&rank_icon=percentile)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zs211&show_icons=true&theme=transparent&rank_icon=percentile)
 
 ---
 ### 🛠️ Tech Stack
