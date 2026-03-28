@@ -1,6 +1,5 @@
 ### Hi I'm zs211！
-- Passionate about game development & tool building
-- Love exploring new tech & travel
+- Love travel
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zs211&show_icons=true&theme=transparent&rank_icon=percentile)
 
