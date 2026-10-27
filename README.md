@@ -1,5 +1,5 @@
 ### Hi I'm zs211！
-- Love travel！
+- Love travel
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zs211&show_icons=true&theme=transparent&rank_icon=percentile)
 
